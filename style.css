@@ -1,7 +1,13 @@
 h1 {color: black;
-}
+
 h1 {font-size: 400%;
 }
 
 h2 {color:Green
+}
+h1 {text-align: center;
+} 
+h3 {color: darkred;
+}
+body {background-color: black;
 }
